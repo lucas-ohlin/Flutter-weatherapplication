@@ -1,16 +1,8 @@
 # weatherapplication
 
-A new Flutter project.
+A small Flutter project that tries to get your current location (or defaults to Varberg) and gets the weather there from:
+<br>
+https://openweathermap.org/
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How it looks
+![image](https://github.com/lucas-ohlin/weatherapplication/assets/113690228/f29e0a17-53cc-415b-8131-e8691d61324f)
