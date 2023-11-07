@@ -13,6 +13,7 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
+    //Not a real key, exhange this to your own from : https://openweathermap.org/
     static const _apiKey = '9c533dbb948dcbf7613728fb87c506ed';
     //Check if it's on desktop or not
     final _weatherService = kIsWeb || Platform.isWindows || Platform.isLinux || Platform.isMacOS 
